@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "data_analysis_mcp": {
+      "command": "python",
+      "args": [
+        "D:\\mcpdemo\\data_analysis_mcp\\data_analysis_mcp.py"
+      ]
+    }
+  }
+}
